@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-The tutorial below outlines the configuration of the osTicket.
+The tutorial below outlines the configuration of roles, permissions and Service Level Agreements in the "osTicket" support ticketing system.
 <br />
 
 
@@ -19,11 +19,17 @@ The tutorial below outlines the configuration of the osTicket.
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+ As an Administrator:
+- Configure departments
+- Configure agents
+- Configure teams
+- Configure roles and permissions
+- Configure Service Level Agreements
+- Configure help topics
+
+  As an Agent:
+  - Configure the clients and opening the tickets for them as per request
+  
 
 <h2>Configuration Steps</h2>
 
