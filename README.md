@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-The tutorial below outlines the configuration of roles, permissions and Service Level Agreements in the "osTicket" support ticketing system.
+The tutorial below outlines the configuration of roles, permissions and Service Level Agreements in the "osTicket" customer support ticketing system.
 <br />
 
 
@@ -28,7 +28,7 @@ The tutorial below outlines the configuration of roles, permissions and Service 
 - Configure help topics
 
   As an Agent:
-  - Configure the clients and opening the tickets for them as per request
+  - Configure the clients and open the tickets for clients as per request
   
 </br>
 <h2>Configuration Steps</h2>
