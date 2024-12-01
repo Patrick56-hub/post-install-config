@@ -20,21 +20,33 @@ The tutorial below outlines the configuration of roles, permissions and Service 
 <h2>Post-Install Configuration Objectives</h2>
 
  As an Administrator:
-- Configure departments
 - Configure agents
+- Configure departments
 - Configure teams
 - Configure roles and permissions
 - Configure Service Level Agreements
 - Configure help topics
 
   As an Agent:
-  - Configure the clients and open the tickets for clients as per request
+  - Configure the clients and opening the tickets for clients as per request
   
-</br>
 <h2>Configuration Steps</h2>
+</br>
 
+![Screenshot 2024-12-01 164706](https://github.com/user-attachments/assets/ce87a5f2-0287-4327-bde0-9901341fcf52)
+
+ <p>
+  Configured the agents or workers database.
+ </p>
+ 
+</br>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2024-12-01 165158](https://github.com/user-attachments/assets/62342a1e-e406-4c83-a135-000f918ad4c2)
+
+Created departments and assigned agents to the departments.
+
+
 </p>
 <p>
 L.
