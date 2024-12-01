@@ -32,6 +32,7 @@ The tutorial below outlines the configuration of roles, permissions and Service 
   
 <h2>Configuration Steps</h2>
 </br>
+</br>
 
 ![Screenshot 2024-12-01 164706](https://github.com/user-attachments/assets/ce87a5f2-0287-4327-bde0-9901341fcf52)
 
@@ -52,28 +53,21 @@ Created the departments and assigned agents to each department.
 
 <p>
 
-![Screenshot 2024-12-01 171744](https://github.com/user-attachments/assets/7fc0db7a-47c2-45c6-8dca-7a8e7150c9d7)
-
+![image](https://github.com/user-attachments/assets/88eea9d0-fffd-41dc-888e-764795a1e943)
 </p>
 <p>
  Teams are formed by agents that are pulled from different departments to perform special tasks. 
-Configured the teams database and assigned members to each team.
+Configured the team database and assigned members for each team.
 </p>
 <br />
 
 <p>
 
+![Screenshot 2024-12-01 170455](https://github.com/user-attachments/assets/bc254046-0853-43a8-ba07-c59f5bbeaff9)
 
 </p>
 <p>
-Lr.
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-L.
+Assigned permissions and roles to agents according to their specialization.
 </p>
 <br />
 
