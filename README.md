@@ -19,7 +19,6 @@ The tutorial below outlines the configuration of roles, permissions and Service 
 
 <h2>Post-Install Configuration Objectives</h2>
 
- As an Administrator:
 - Configure agents
 - Configure departments
 - Configure teams
@@ -27,8 +26,6 @@ The tutorial below outlines the configuration of roles, permissions and Service 
 - Configure Service Level Agreements
 - Configure help topics
 
-  As an Agent:
-  - Configure the clients and opening the tickets for clients as per request
   
 <h2>Configuration Steps</h2>
 <br />
